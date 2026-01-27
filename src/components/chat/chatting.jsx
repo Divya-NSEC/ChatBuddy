@@ -126,7 +126,7 @@ const ComponentA = () => {
             ))}
 
             {isTyping && (
-              <div className="mr-auto bg-white px-4 py-2 rounded-lg text-sm italic">
+              <div className="mr-auto font-bold px-4 py-2 rounded-lg text-sm italic">
                 typing...
               </div>
             )}
